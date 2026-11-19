@@ -1,7 +1,6 @@
-現場技術ツール v0.6
-JPI 300LB 50A RF（形式未指定）を公開二次資料の一部寸法として追加。
-外径165mm、PCD127.0mm、8穴、穴径19mm、ねじM16×2 / 5/8-11UNC。
-スタッド長90mm、六角長75mmはガスケット3mm・座金なしのメーカー参考値で、実務の確定寸法ではない。
-厚さ、座面径、ガスケット、スパナサイズは未登録。
-出典 https://www.daiko-jp.com/media/useful/a353 （2026-11-19確認）
-正式規格本文未照合。製作・発注・設計不可。
+現場技術ツール v0.7
+更新方法：ZIPを展開し全7ファイルをGitHub Pagesリポジトリのルートに上書き。
+新規調査候補：JPI 300LB 80A RF、JIS 10K 50A RF・80A RF（形式未指定）。
+出典：株式会社ダイコー https://www.daiko-jp.com/media/useful/a353
+ORKカタログ https://www.ork.co.jp/cms/wp-content/themes/rasen-v1.6/docs/00-catalog-ja-2024.pdf
+JISの厚さはSOP表の参考値であり他形式への適用未確認。正式規格未照合、製作・発注・強度判断には使用禁止。
